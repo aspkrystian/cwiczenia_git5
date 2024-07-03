@@ -1,1 +1,1 @@
-Zawartość pliku cwiczenie4.txt
+Zmieniona zawartość pliku cwiczenie4.txt
